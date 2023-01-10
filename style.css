@@ -59,9 +59,9 @@ h1 {
         font-size: 20px;
         margin: 8px;
     }
-    .mainTextP {
-        font-size: 80%;
-    }
+    /* .mainTextP {
+        font-size: 10px;
+    } */
 }
 
 @media (min-width: 1000px) {
@@ -261,7 +261,8 @@ ul {
 }
 
 .mainTextP {
-    font-size: 170%;
+    font-size: 40px;
+    font-size: 5vw;
 }
 
 .secretLogin {
