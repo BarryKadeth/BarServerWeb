@@ -1,4 +1,7 @@
 <?php
+echo "Hello there";
+?>
+<!-- <?php
   if (isset($_REQUEST['name']) && isset($_REQUEST['email']) && isset($_REQUEST['message'])) { 
 
   // consulting db
@@ -27,4 +30,4 @@
 
   echo "<script> window.location.href = \"index.php#contactMe\"; </script>";
   } 
-?>
+?> -->
