@@ -208,12 +208,12 @@ ul {
 }
 
 .inputButton {
-    border-radius: 25px;
+    border-radius: 5px;
     margin-bottom: 15px;
 }
 
 .inputDetails {
-    border-radius: 10px;
+    border-radius: 5px;
     width: 50%;
 }
 
@@ -229,7 +229,7 @@ ul {
 }
 
 .message {
-    border-radius: 10px;
+    border-radius: 5px;
     border-color: black;
     border-width: 2px;
     width: 90%;
