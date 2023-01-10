@@ -50,7 +50,7 @@
             <div class="mainArea">
                 <div class="mainText">
                     <h1>Barry Kadeth</h1>
-                    <p class="mainTextP">Your Friendly Software Developer</p>
+                    <p class="mainTextP">Your Friendly Software Dev</p>
                     <!-- <p>Master of Software Development Student</p> -->
                     <a href="#aboutMe">
                         <div class="aboutButton" id="aboutButton">About Me</div>
