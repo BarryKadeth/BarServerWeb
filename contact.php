@@ -1,7 +1,3 @@
-<!-- <?php
-echo "Hello there";
-?> -->
-
 <?php
   if (isset($_REQUEST['name']) && isset($_REQUEST['email']) && isset($_REQUEST['message'])) { 
 

@@ -96,6 +96,8 @@ nav {
 
 p {
     margin: 10px; 
+    /* text-align: justify;
+    text-justify: inter-word; */
 }
 
 section {
@@ -136,6 +138,12 @@ ul {
     display: flex;
     align-items: center;
     
+}
+
+.blurbContent {
+    text-align: justify;
+    text-justify: inter-word;
+    padding-right: 15px;
 }
 
 .blogContainer {
