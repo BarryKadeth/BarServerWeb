@@ -22,7 +22,7 @@
                 <ul id="mainMenu">
                     <li><a href="#aboutMe">About Me</a></li>
                     <li><a href="#experience">Experience</a></li>
-                    <li><a href="#myPosts">Blog Posts</a></li>
+                    <li><a href="#myPosts">My Projects</a></li>
                     <li><a href="#contactMe">Contact</a></li>                    
                 </ul>
 
