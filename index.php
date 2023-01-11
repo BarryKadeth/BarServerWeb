@@ -35,6 +35,10 @@
                         target="_blank" rel="noopener noreferrer">
                         <img src="img/github.png" width ="40" alt="github">
                     </a>
+                    <a href="https://www.github.com/barrykadeth"
+                        target="_blank" rel="noopener noreferrer">
+                        <img src="img/twitter.png" width ="40" alt="github">
+                    </a>
                     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
                         target="_blank" rel="noopener noreferrer">
                         <img src="img/youtube.png" width ="40" alt="youtube">
@@ -222,6 +226,10 @@
                     <a href="https://www.github.com/barrykadeth"
                         target="_blank" rel="noopener noreferrer">
                         <img src="img/github.png" width ="40" alt="github">
+                    </a>
+                    <a href="https://twitter.com/Barrykadeth"
+                        target="_blank" rel="noopener noreferrer">
+                        <img src="img/twitter.png" width ="40" alt="github">
                     </a>
                     <!-- <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
                         target="_blank" rel="noopener noreferrer">
