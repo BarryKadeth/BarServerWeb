@@ -35,7 +35,7 @@
                         target="_blank" rel="noopener noreferrer">
                         <img src="img/github.png" width ="40" alt="github">
                     </a>
-                    <a href="https://www.github.com/barrykadeth"
+                    <a href="https://twitter.com/Barrykadeth"
                         target="_blank" rel="noopener noreferrer">
                         <img src="img/twitter.png" width ="40" alt="github">
                     </a>
