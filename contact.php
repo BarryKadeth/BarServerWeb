@@ -1,4 +1,4 @@
-This file is not used anymore: 
+<!-- This file is not used anymore: Website is now static -->
 
 <?php
   if (isset($_REQUEST['name']) && isset($_REQUEST['email']) && isset($_REQUEST['message'])) { 
