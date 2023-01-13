@@ -1,5 +1,11 @@
 # BarServerWeb
 
-This is a personal website with PHP:
+This is my personal website (January 2023): 
 
-This will being using Azure Services such as Asure Web Apps, and the Azure MySQL Database.
+It was previously created with PHP as the server language. Used Azure services such as: 
+- App service
+- MySQL database
+- Key vault
+- Virtual machine. 
+
+I have no removed these and made the website static with no PHP code, using GoogleDocs for the forms. 
