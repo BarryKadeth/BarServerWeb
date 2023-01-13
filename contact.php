@@ -1,12 +1,14 @@
+This file is not used anymore: 
+
 <?php
   if (isset($_REQUEST['name']) && isset($_REQUEST['email']) && isset($_REQUEST['message'])) { 
 
 
-//Consulting db for Azure
+//Consulting db for Azure: have removed this database now:
   $server = "baramey.mysql.database.azure.com";
-  $username = "baramey";
-  $password = "Wellington123!";
-  $database = "WebDatabase";
+  $username = "";
+  $password = "!";
+  $database = "";
 
   $conn = mysqli_init();
   mysqli_ssl_set($conn,NULL,NULL,"DigiCertGlobalRootCA.crt.pem",NULL,NULL);
